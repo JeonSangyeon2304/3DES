@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DES", "3DES\3DES.vcxproj", "{2BEB6209-5287-44CE-AE94-A4F83DA83E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BEB6209-5287-44CE-AE94-A4F83DA83E03}.Debug|x64.ActiveCfg = Debug|x64
+		{2BEB6209-5287-44CE-AE94-A4F83DA83E03}.Debug|x64.Build.0 = Debug|x64
+		{2BEB6209-5287-44CE-AE94-A4F83DA83E03}.Debug|x86.ActiveCfg = Debug|Win32
+		{2BEB6209-5287-44CE-AE94-A4F83DA83E03}.Debug|x86.Build.0 = Debug|Win32
+		{2BEB6209-5287-44CE-AE94-A4F83DA83E03}.Release|x64.ActiveCfg = Release|x64
+		{2BEB6209-5287-44CE-AE94-A4F83DA83E03}.Release|x64.Build.0 = Release|x64
+		{2BEB6209-5287-44CE-AE94-A4F83DA83E03}.Release|x86.ActiveCfg = Release|Win32
+		{2BEB6209-5287-44CE-AE94-A4F83DA83E03}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49B97D78-6280-4D5E-B1BF-1092D403B189}
+	EndGlobalSection
+EndGlobal
